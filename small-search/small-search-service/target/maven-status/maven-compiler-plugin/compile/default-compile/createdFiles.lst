@@ -1,0 +1,5 @@
+cn\exrick\search\message\ItemESMessageListener.class
+cn\exrick\search\service\impl\SearchItemServiceImpl.class
+cn\exrick\search\mapper\ItemMapper.class
+cn\exrick\search\service\impl\SearchServiceImpl.class
+cn\exrick\search\message\MyMessageListener.class

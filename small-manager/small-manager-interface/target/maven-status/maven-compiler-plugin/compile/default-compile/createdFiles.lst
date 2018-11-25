@@ -1,0 +1,10 @@
+cn\exrick\manager\service\DictService.class
+cn\exrick\manager\service\OrderService.class
+cn\exrick\manager\service\UserService.class
+cn\exrick\manager\service\ItemCatService.class
+cn\exrick\manager\service\SystemService.class
+cn\exrick\manager\service\ItemService.class
+cn\exrick\manager\service\ThanksService.class
+cn\exrick\manager\service\MemberService.class
+cn\exrick\manager\service\ExpressService.class
+cn\exrick\manager\service\CountService.class

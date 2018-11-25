@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="xmall-common" />
+        <module name="xmall-content-interface" />
+        <module name="xmall-content-service" />
+        <module name="xmall-front-web" />
+        <module name="xmall-manager-dao" />
+        <module name="xmall-manager-interface" />
+        <module name="xmall-manager-pojo" />
+        <module name="xmall-manager-service" />
+        <module name="xmall-manager-web" />
+        <module name="xmall-search-interface" />
+        <module name="xmall-search-service" />
+        <module name="xmall-sso-interface" />
+        <module name="xmall-sso-service" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
